@@ -34,7 +34,7 @@ GameStop's revenue is strongly seasonal, with a peak every holiday quarter, and 
 ## Project structure
 
 ```
-DS-project/
+tesla-gamestop-stock-analysis/
 ├── images/
 │   ├── charts/                  # Final Plotly dashboards
 │   └── notebook-screenshots/    # Data extraction steps (stock and revenue tables)
